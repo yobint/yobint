@@ -1,0 +1,1 @@
+ls: não foi possível acessar '/bin/usr': Arquivo ou diretório inexistente

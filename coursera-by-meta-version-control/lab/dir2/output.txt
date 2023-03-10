@@ -1,0 +1,4 @@
+total 8
+drwxrwxr-x 2 tarsisk-yobint tarsisk-yobint 4096 mar 10 04:10 dir3
+-rw-rw-r-- 1 tarsisk-yobint tarsisk-yobint   66 mar 10 04:22 file3.txt
+-rw-rw-r-- 1 tarsisk-yobint tarsisk-yobint    0 mar 10 04:39 output.txt
